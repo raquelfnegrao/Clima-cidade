@@ -32,4 +32,5 @@
 ##  Capturas de tela
 
 ![Busca de clima](Captura de tela1.png)
-![Resultado exibido](<img width="993" height="728" alt="Captura de tela2" src="https://github.com/user-attachments/assets/0b79bf5a-97c0-4bf1-8c5c-96f3c87f56a8" />)
+![Resultado exibido](Captura de tela2.png)
+![Resultado exibido](Captura de tela3.png)
