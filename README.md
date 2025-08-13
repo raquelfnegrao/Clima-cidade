@@ -1,4 +1,4 @@
-# 👩‍💻 Projeto Clima da Cidade - RAquel Negrão
+# 👩‍💻 Projeto Clima da Cidade - Raquel Negrão
 
 - Aplicação simples de previsão do tempo usando uma API externa. 
 - Permite buscar e exibir dados climáticos de qualquer cidade informada.
@@ -31,6 +31,6 @@
 
 ##  Capturas de tela
 
-![Busca de clima](Captura de tela1.png)
+![Busca de clima](/captura de tela/Captura de tela3.png)
 ![Resultado exibido](Captura de tela2.png)
 ![Resultado exibido](Captura de tela3.png)
