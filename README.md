@@ -31,6 +31,6 @@
 
 ##  Capturas de tela
 
-![Busca de clima](/captura de tela/Captura de tela3.png)
-![Resultado exibido](Captura de tela2.png)
-![Resultado exibido](Captura de tela3.png)
+![Busca de clima](captura%20de%20tela/Captura%20de%20tela213.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela2.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela3.png)
